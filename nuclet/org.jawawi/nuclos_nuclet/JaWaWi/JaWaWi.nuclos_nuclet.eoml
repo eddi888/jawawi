@@ -1,0 +1,9 @@
+<eo entity="nuclos_nuclet" entityuid="xojr" uid="0QQ6ZVQqmO3Cie35mpwc" version="3">
+  <name fielduid="xojra">JaWaWi</name>
+  <description fielduid="xojrb">JavaWarenWirtschaft</description>
+  <package fielduid="xojrd">org.jawawi</package>
+  <nucletVersion fielduid="xojre">100</nucletVersion>
+  <localidentifier fielduid="xojrf">PC5W</localidentifier>
+  <nuclon fielduid="xojrg">false</nuclon>
+  <source fielduid="xojrh">true</source>
+</eo>

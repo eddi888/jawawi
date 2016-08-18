@@ -1,0 +1,9 @@
+<eo entity="nuclos_nuclet" entityuid="xojr" uid="j3Tky5JRkmhHzQIxrI1S" version="0">
+  <name fielduid="xojra">Material-Management</name>
+  <description fielduid="xojrb">Artikel, Arbeitsgänge, Fertigungsmittel, Stücklisten</description>
+  <package fielduid="xojrd">org.jawawi.mm</package>
+  <nucletVersion fielduid="xojre">100</nucletVersion>
+  <localidentifier fielduid="xojrf">I1BL</localidentifier>
+  <nuclon fielduid="xojrg">false</nuclon>
+  <source fielduid="xojrh">true</source>
+</eo>

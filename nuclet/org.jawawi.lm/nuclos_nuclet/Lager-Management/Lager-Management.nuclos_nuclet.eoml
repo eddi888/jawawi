@@ -1,0 +1,9 @@
+<eo entity="nuclos_nuclet" entityuid="xojr" uid="oNQH5r4fUvkmfJsaqyDb" version="0">
+  <name fielduid="xojra">Lager-Management</name>
+  <description fielduid="xojrb">Lagergruppe, Lager, Lagerplatz, Seriennummer, Charge</description>
+  <package fielduid="xojrd">org.jawawi.lm</package>
+  <nucletVersion fielduid="xojre">100</nucletVersion>
+  <localidentifier fielduid="xojrf">YK70</localidentifier>
+  <nuclon fielduid="xojrg">false</nuclon>
+  <source fielduid="xojrh">true</source>
+</eo>

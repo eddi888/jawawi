@@ -1,0 +1,13 @@
+<root>
+  <transferVersion>3</transferVersion>
+  <uid>0QQ6ZVQqmO3Cie35mpwc</uid>
+  <nuclosVersion>
+    <appId>nuclos</appId>
+    <appName>Nuclos</appName>
+    <versionNumber>4.10.2</versionNumber>
+  </nuclosVersion>
+  <database>POSTGRESQL</database>
+  <exportOptions>
+    <IS__DIRECTORY__MODE/>
+  </exportOptions>
+</root>

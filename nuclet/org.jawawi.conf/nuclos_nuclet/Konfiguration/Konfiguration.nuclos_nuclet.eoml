@@ -1,0 +1,9 @@
+<eo entity="nuclos_nuclet" entityuid="xojr" uid="QlO23d9XweihB4scvyjb" version="1">
+  <name fielduid="xojra">Konfiguration</name>
+  <description fielduid="xojrb">Konfiguration und Wertelisten</description>
+  <package fielduid="xojrd">org.jawawi.conf</package>
+  <nucletVersion fielduid="xojre">100</nucletVersion>
+  <localidentifier fielduid="xojrf">CWT1</localidentifier>
+  <nuclon fielduid="xojrg">false</nuclon>
+  <source fielduid="xojrh">true</source>
+</eo>

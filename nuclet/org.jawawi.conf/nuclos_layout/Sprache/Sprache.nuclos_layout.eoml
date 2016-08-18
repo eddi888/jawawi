@@ -1,0 +1,8 @@
+<eo entity="nuclos_layout" entityuid="5KNd" uid="Jfe3QMqMHxdPLH6HWlBw" version="1">
+  <name fielduid="5KNda">Sprache</name>
+  <description fielduid="5KNdb">Sprache</description>
+  <nuclet fielduid="5KNdd">QlO23d9XweihB4scvyjb</nuclet>
+  <__externalizedFiles__>
+    <layoutML fielduid="5KNdc">org.jawawi.conf/nuclos_layout/Sprache/Sprache.layoutml</layoutML>
+  </__externalizedFiles__>
+</eo>

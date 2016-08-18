@@ -1,0 +1,9 @@
+<eo entity="nuclos_nuclet" entityuid="xojr" uid="dbD9UbO9ukFOl2sxMuDP" version="0">
+  <name fielduid="xojra">Disposition</name>
+  <description fielduid="xojrb">Dispo nach MRPII mit Einkaufsvorschläge​, Produktionsvorschläge​ und Umlagerungsvorschläge</description>
+  <package fielduid="xojrd">org.jawawi.dispo</package>
+  <nucletVersion fielduid="xojre">100</nucletVersion>
+  <localidentifier fielduid="xojrf">X77W</localidentifier>
+  <nuclon fielduid="xojrg">false</nuclon>
+  <source fielduid="xojrh">true</source>
+</eo>

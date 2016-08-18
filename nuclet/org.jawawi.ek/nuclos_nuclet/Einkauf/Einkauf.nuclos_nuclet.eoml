@@ -1,0 +1,8 @@
+<eo entity="nuclos_nuclet" entityuid="xojr" uid="Dr2BZZXgDvfaUfbD0Rmp" version="0">
+  <name fielduid="xojra">Einkauf</name>
+  <package fielduid="xojrd">org.jawawi.ek</package>
+  <nucletVersion fielduid="xojre">100</nucletVersion>
+  <localidentifier fielduid="xojrf">EB24</localidentifier>
+  <nuclon fielduid="xojrg">false</nuclon>
+  <source fielduid="xojrh">true</source>
+</eo>
