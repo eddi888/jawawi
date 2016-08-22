@@ -10,6 +10,12 @@ export NUCLOS_PORT=8080
 export WEBCLIENT_PORT=9090
 export TOMCAT_AJP_PORT=8005
 export CARGO_RMI_PORT=8999
+export SELENIUM_PORT=4444
+
+
+#
+# DEFAULT CONFIGURATION FILES
+#
 
 echo "maven.home.dir=$MAVEN_HOME" > build.properties
 echo "launch4j.home.dir=/opt/launch4j/" >> build.properties
@@ -152,6 +158,10 @@ npm install
 grunt ts --force
 popd
 
+#
+# start local selenium server
+#
+java -jar $SELENIUM_SERVER_JAR &
 
 #
 # execute Maven
@@ -173,6 +183,13 @@ verify                                                  \
 -Dcargo.container.tomcat.ajp.port=${TOMCAT_AJP_PORT}    \
 -Dcargo.container.rmi.port=${CARGO_RMI_PORT}
 
+
+#
+# shutdown all
+#
+kill `lsof -t -i:$NUCLOS_PORT`
+kill `lsof -t -i:$WEBCLIENT_PORT`
+kill `lsof -t -i:$SELENIUM_PORT`
 
 
 
