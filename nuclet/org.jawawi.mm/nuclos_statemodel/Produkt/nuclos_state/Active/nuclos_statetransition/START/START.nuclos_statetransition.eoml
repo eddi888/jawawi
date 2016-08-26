@@ -1,0 +1,6 @@
+<eo entity="nuclos_statetransition" entityuid="nodk" uid="cfMTwwf6L6brWGW4q6jR" version="0">
+  <state2 fielduid="nodkb">8YU9e58MpDelmZZDy1U4</state2>
+  <automatic fielduid="nodkc">true</automatic>
+  <default fielduid="nodkd">false</default>
+  <nonstop fielduid="nodkf">false</nonstop>
+</eo>

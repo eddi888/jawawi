@@ -1,0 +1,9 @@
+<eo entity="nuclos_statemodel" entityuid="lACv" uid="yS5hqcnkfBFjHHfD5IoB" version="2">
+  <name fielduid="lACva">Produkt</name>
+  <nuclet fielduid="lACvf">j3Tky5JRkmhHzQIxrI1S</nuclet>
+  <layout>
+    <state uid="uid{U89N.8YU9e58MpDelmZZDy1U4}" height="48.0" width="120.0" x="56.0" y="56.0"/>
+    <state uid="uid{U89N._START_}" height="24.0" width="24.0" x="2.0" y="2.0"/>
+    <transition uid="uid{nodk.cfMTwwf6L6brWGW4q6jR}" connectionStart="16" connectionEnd="0"/>
+  </layout>
+</eo>

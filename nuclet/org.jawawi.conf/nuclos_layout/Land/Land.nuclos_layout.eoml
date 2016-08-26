@@ -1,0 +1,8 @@
+<eo entity="nuclos_layout" entityuid="5KNd" uid="jCGX2T7FGI2VRffhs4x4" version="1">
+  <name fielduid="5KNda">Land</name>
+  <description fielduid="5KNdb">Land</description>
+  <nuclet fielduid="5KNdd">QlO23d9XweihB4scvyjb</nuclet>
+  <__externalizedFiles__>
+    <layoutML fielduid="5KNdc">org.jawawi.conf/nuclos_layout/Land/Land.layoutml</layoutML>
+  </__externalizedFiles__>
+</eo>

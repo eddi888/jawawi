@@ -1,0 +1,8 @@
+<eo entity="nuclos_layout" entityuid="5KNd" uid="IiBgCAiQb4RTO4vkWHKr" version="1">
+  <name fielduid="5KNda">Lagergruppe</name>
+  <description fielduid="5KNdb">Lagergruppe</description>
+  <nuclet fielduid="5KNdd">oNQH5r4fUvkmfJsaqyDb</nuclet>
+  <__externalizedFiles__>
+    <layoutML fielduid="5KNdc">org.jawawi.lm/nuclos_layout/Lagergruppe/Lagergruppe.layoutml</layoutML>
+  </__externalizedFiles__>
+</eo>

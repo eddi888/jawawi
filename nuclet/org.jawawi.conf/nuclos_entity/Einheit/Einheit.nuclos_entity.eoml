@@ -1,0 +1,30 @@
+<eo entity="nuclos_entity" entityuid="5E8q" uid="dGfSpYUQsBOKUhCfDaKM" version="1">
+  <showSearch fielduid="5E8qE">false</showSearch>
+  <proxy fielduid="5E8qF">false</proxy>
+  <resultdetailssplitview fielduid="5E8qH">false</resultdetailssplitview>
+  <entity fielduid="5E8qa">Einheit</entity>
+  <dbtable fielduid="5E8qb">CWT1_EINHEIT</dbtable>
+  <nuclet fielduid="5E8qc">QlO23d9XweihB4scvyjb</nuclet>
+  <editable fielduid="5E8qf">true</editable>
+  <usessatemodel fielduid="5E8qg">false</usessatemodel>
+  <logbooktracking fielduid="5E8qh">false</logbooktracking>
+  <cacheable fielduid="5E8qi">false</cacheable>
+  <searchable fielduid="5E8qj">true</searchable>
+  <treerelation fielduid="5E8qk">false</treerelation>
+  <treegroup fielduid="5E8ql">false</treegroup>
+  <importexport fielduid="5E8qm">true</importexport>
+  <fieldvalueentity fielduid="5E8qn">false</fieldvalueentity>
+  <nuclosResource fielduid="5E8qs">org.nuclos.client.resource.icon.glyphish.186-ruler.png</nuclosResource>
+  <__localeResource__ language="de">
+    <localeresourcel fielduid="5E8qt">Einheit</localeresourcel>
+    <localeresourcem fielduid="5E8qu">Wertelisten</localeresourcem>
+    <localeresourcetw fielduid="5E8qw">uid{JEMc7pppAqQ3ZfVcJeh8}</localeresourcetw>
+    <localeresourcett fielduid="5E8qx">uid{JEMc7pppAqQ3ZfVcJeh8}</localeresourcett>
+  </__localeResource__>
+  <__localeResource__ language="en">
+    <localeresourcel fielduid="5E8qt">Einheit</localeresourcel>
+    <localeresourcem fielduid="5E8qu">Wertelisten</localeresourcem>
+    <localeresourcetw fielduid="5E8qw">uid{JEMc7pppAqQ3ZfVcJeh8}</localeresourcetw>
+    <localeresourcett fielduid="5E8qx">uid{JEMc7pppAqQ3ZfVcJeh8}</localeresourcett>
+  </__localeResource__>
+</eo>

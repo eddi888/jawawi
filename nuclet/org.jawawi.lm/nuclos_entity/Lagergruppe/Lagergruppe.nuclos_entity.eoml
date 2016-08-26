@@ -1,0 +1,30 @@
+<eo entity="nuclos_entity" entityuid="5E8q" uid="6azgMwF16wxj6xSD0PqK" version="1">
+  <showSearch fielduid="5E8qE">false</showSearch>
+  <proxy fielduid="5E8qF">false</proxy>
+  <resultdetailssplitview fielduid="5E8qH">false</resultdetailssplitview>
+  <entity fielduid="5E8qa">Lagergruppe</entity>
+  <dbtable fielduid="5E8qb">YK70_LAGERGRUPPE</dbtable>
+  <nuclet fielduid="5E8qc">oNQH5r4fUvkmfJsaqyDb</nuclet>
+  <editable fielduid="5E8qf">true</editable>
+  <usessatemodel fielduid="5E8qg">false</usessatemodel>
+  <logbooktracking fielduid="5E8qh">false</logbooktracking>
+  <cacheable fielduid="5E8qi">false</cacheable>
+  <searchable fielduid="5E8qj">true</searchable>
+  <treerelation fielduid="5E8qk">false</treerelation>
+  <treegroup fielduid="5E8ql">false</treegroup>
+  <importexport fielduid="5E8qm">true</importexport>
+  <fieldvalueentity fielduid="5E8qn">false</fieldvalueentity>
+  <nuclosResource fielduid="5E8qs">org.nuclos.client.resource.icon.glyphish.178-city.png</nuclosResource>
+  <__localeResource__ language="de">
+    <localeresourcel fielduid="5E8qt">Lagergruppe</localeresourcel>
+    <localeresourcem fielduid="5E8qu">Lagermanagement</localeresourcem>
+    <localeresourcetw fielduid="5E8qw">uid{2jSsl12mqLVaGMVl4Cmz}</localeresourcetw>
+    <localeresourcett fielduid="5E8qx">uid{2jSsl12mqLVaGMVl4Cmz}</localeresourcett>
+  </__localeResource__>
+  <__localeResource__ language="en">
+    <localeresourcel fielduid="5E8qt">Lagergruppe</localeresourcel>
+    <localeresourcem fielduid="5E8qu">Lagermanagement</localeresourcem>
+    <localeresourcetw fielduid="5E8qw">uid{2jSsl12mqLVaGMVl4Cmz}</localeresourcetw>
+    <localeresourcett fielduid="5E8qx">uid{2jSsl12mqLVaGMVl4Cmz}</localeresourcett>
+  </__localeResource__>
+</eo>

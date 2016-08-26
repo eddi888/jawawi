@@ -1,0 +1,8 @@
+<eo entity="nuclos_layout" entityuid="5KNd" uid="4sP5VM1C9sCEi19tqh0Q" version="6">
+  <name fielduid="5KNda">Produkt</name>
+  <description fielduid="5KNdb">Produkt</description>
+  <nuclet fielduid="5KNdd">j3Tky5JRkmhHzQIxrI1S</nuclet>
+  <__externalizedFiles__>
+    <layoutML fielduid="5KNdc">org.jawawi.mm/nuclos_layout/Produkt/Produkt.layoutml</layoutML>
+  </__externalizedFiles__>
+</eo>

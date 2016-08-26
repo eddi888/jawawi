@@ -1,0 +1,25 @@
+<eo entity="nuclos_entity" entityuid="5E8q" uid="LAOm0AZg1Z2z52mDwd1A" version="1">
+  <showSearch fielduid="5E8qE">false</showSearch>
+  <proxy fielduid="5E8qF">false</proxy>
+  <resultdetailssplitview fielduid="5E8qH">false</resultdetailssplitview>
+  <entity fielduid="5E8qa">Stückliste</entity>
+  <dbtable fielduid="5E8qb">I1BL_STUECKLISTE</dbtable>
+  <nuclet fielduid="5E8qc">j3Tky5JRkmhHzQIxrI1S</nuclet>
+  <editable fielduid="5E8qf">true</editable>
+  <usessatemodel fielduid="5E8qg">false</usessatemodel>
+  <logbooktracking fielduid="5E8qh">false</logbooktracking>
+  <cacheable fielduid="5E8qi">false</cacheable>
+  <searchable fielduid="5E8qj">true</searchable>
+  <treerelation fielduid="5E8qk">false</treerelation>
+  <treegroup fielduid="5E8ql">false</treegroup>
+  <importexport fielduid="5E8qm">true</importexport>
+  <fieldvalueentity fielduid="5E8qn">false</fieldvalueentity>
+  <__localeResource__ language="de">
+    <localeresourcel fielduid="5E8qt">Stückliste</localeresourcel>
+    <localeresourcetw fielduid="5E8qw">uid{bLHp4tu484FNP0qTBVQ7} - uid{Ac0NlA7o3Bp5sUHM8aHq}</localeresourcetw>
+  </__localeResource__>
+  <__localeResource__ language="en">
+    <localeresourcel fielduid="5E8qt">Stückliste</localeresourcel>
+    <localeresourcetw fielduid="5E8qw">uid{bLHp4tu484FNP0qTBVQ7} - uid{Ac0NlA7o3Bp5sUHM8aHq}</localeresourcetw>
+  </__localeResource__>
+</eo>

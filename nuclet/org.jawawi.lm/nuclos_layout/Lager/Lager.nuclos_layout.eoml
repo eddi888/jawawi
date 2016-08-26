@@ -1,0 +1,8 @@
+<eo entity="nuclos_layout" entityuid="5KNd" uid="HyyjcsZLmCTyPsHucqeE" version="1">
+  <name fielduid="5KNda">Lager</name>
+  <description fielduid="5KNdb">Lager</description>
+  <nuclet fielduid="5KNdd">oNQH5r4fUvkmfJsaqyDb</nuclet>
+  <__externalizedFiles__>
+    <layoutML fielduid="5KNdc">org.jawawi.lm/nuclos_layout/Lager/Lager.layoutml</layoutML>
+  </__externalizedFiles__>
+</eo>

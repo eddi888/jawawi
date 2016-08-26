@@ -1,0 +1,33 @@
+<eo entity="nuclos_state" entityuid="U89N" uid="8YU9e58MpDelmZZDy1U4" version="0">
+  <name fielduid="U89Na">Active</name>
+  <model fielduid="U89Nb">yS5hqcnkfBFjHHfD5IoB</model>
+  <description fielduid="U89Nc"></description>
+  <numeral fielduid="U89Nd">10</numeral>
+  <icon fielduid="U89Nh">
+    <name></name>
+    <content>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB6ElEQVR42s1S205TQRTtA+dSThuP
+tOVSUijlXrACVW4FY1QIQhBICBBSjYpyCS98An/AJ/AJfML5BL+ATHuwlDvlWigPy71HEtMU8ImE
+SSYzmay99lprj8PxGKtIFL0tFvqqaTstj+22+K4Ipe3/lcJhuhLOjeqUB/1HtRg9bcHY2QsMZprQ
+vFMOI6mvM+be+ue2YUX2KvHprBVfrzrx47obC7kezF13IZ59hZ7DGhgJ7dedxU6hrdSlfRg6aUb8
+Mop5KlzKxbB804fFXC9+EtnURZtUogt1tbB70hDR/SrZnbv97d6LpZuYJGBCfn9D1kzCFnj32W50
+HlRj5DSM6Yt2fCMLc0TChUz2nWzMXHbg3XE9/L9N5IXKqZdtPUP7XgADmUaMU3AMjmej+JJ9jc/U
+eZZsTZxHEDsMwb9lgmvyFJAFhMlf90FQkoyRlcnzl9L3JG2exgd655A9toty0IN5LoyELgKpEkR2
+K2UXBn+kQIfJ0vBJGO8zDegi8tptHxhbEKJGUyhJulCT8qJ11y/BTNR3FJJndD+A+nQpGKNu3jEF
+XrpQLAZUkZLGdJkkYkXhnQqEtr230hXrwZ+oCWXNnXDCS1Mpp2B5851kQ9lU1h78if+U6EGdZKpC
+XdeEusGSC0J7MusPeComFtclJnMAAAAASUVORK5CYII=</content>
+    <producer class="org.nuclos.common.DefaultNuclosImageProducer"/>
+    <width>-1</width>
+    <height>-1</height>
+    <bProduce>false</bProduce>
+  </icon>
+  <__localeResource__ language="de">
+    <labelres fielduid="U89Ne">Aktiiv</labelres>
+    <descriptionres fielduid="U89Nf"></descriptionres>
+    <buttonRes fielduid="U89Nk"></buttonRes>
+  </__localeResource__>
+  <__localeResource__ language="en">
+    <labelres fielduid="U89Ne">Active</labelres>
+    <descriptionres fielduid="U89Nf"></descriptionres>
+    <buttonRes fielduid="U89Nk"></buttonRes>
+  </__localeResource__>
+</eo>

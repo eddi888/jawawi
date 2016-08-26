@@ -1,0 +1,31 @@
+<eo entity="nuclos_entityfield" entityuid="Khi5" uid="i3pMRSFqJzMR8nPez9Ht" version="2">
+  <indexed fielduid="Khi5E">false</indexed>
+  <ondeletecascade fielduid="Khi5G">false</ondeletecascade>
+  <order fielduid="Khi5H">1</order>
+  <hidden fielduid="Khi5O">false</hidden>
+  <calcOndemand fielduid="Khi5Q">false</calcOndemand>
+  <calcAttributeAllowCustomization fielduid="Khi5S">false</calcAttributeAllowCustomization>
+  <isLocalized fielduid="Khi5T">false</isLocalized>
+  <comment fielduid="Khi5U"></comment>
+  <entity fielduid="Khi5a">8Tqdm4M1eBkpgd8ehj0n</entity>
+  <field fielduid="Khi5c">name</field>
+  <dbfield fielduid="Khi5d">STRname</dbfield>
+  <datatype fielduid="Khi5e">java.lang.String</datatype>
+  <datascale fielduid="Khi5k">255</datascale>
+  <unique fielduid="Khi5q">true</unique>
+  <nullable fielduid="Khi5r">false</nullable>
+  <searchable fielduid="Khi5s">false</searchable>
+  <modifiable fielduid="Khi5t">true</modifiable>
+  <insertable fielduid="Khi5u">false</insertable>
+  <logbooktracking fielduid="Khi5v">false</logbooktracking>
+  <showmnemonic fielduid="Khi5w">false</showmnemonic>
+  <readonly fielduid="Khi5x">false</readonly>
+  <__localeResource__ language="de">
+    <localeresourcel fielduid="Khi5B">Name</localeresourcel>
+    <localeresourced fielduid="Khi5C">Name</localeresourced>
+  </__localeResource__>
+  <__localeResource__ language="en">
+    <localeresourcel fielduid="Khi5B">Name</localeresourcel>
+    <localeresourced fielduid="Khi5C">Name</localeresourced>
+  </__localeResource__>
+</eo>

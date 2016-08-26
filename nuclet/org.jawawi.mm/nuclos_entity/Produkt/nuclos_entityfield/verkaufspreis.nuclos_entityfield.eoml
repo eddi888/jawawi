@@ -1,0 +1,33 @@
+<eo entity="nuclos_entityfield" entityuid="Khi5" uid="KTi7t6AosHzhPYtvCmfi" version="5">
+  <indexed fielduid="Khi5E">false</indexed>
+  <ondeletecascade fielduid="Khi5G">false</ondeletecascade>
+  <order fielduid="Khi5H">5</order>
+  <hidden fielduid="Khi5O">false</hidden>
+  <calcOndemand fielduid="Khi5Q">false</calcOndemand>
+  <calcAttributeAllowCustomization fielduid="Khi5S">false</calcAttributeAllowCustomization>
+  <isLocalized fielduid="Khi5T">false</isLocalized>
+  <comment fielduid="Khi5U"></comment>
+  <entity fielduid="Khi5a">e0FBoI42ydIGtUbGuzaz</entity>
+  <field fielduid="Khi5c">verkaufspreis</field>
+  <dbfield fielduid="Khi5d">DBLverkaufspreis</dbfield>
+  <datatype fielduid="Khi5e">java.lang.Double</datatype>
+  <datascale fielduid="Khi5k">9</datascale>
+  <dataprecision fielduid="Khi5l">2</dataprecision>
+  <formatoutput fielduid="Khi5p">#,##0.00</formatoutput>
+  <unique fielduid="Khi5q">false</unique>
+  <nullable fielduid="Khi5r">true</nullable>
+  <searchable fielduid="Khi5s">false</searchable>
+  <modifiable fielduid="Khi5t">true</modifiable>
+  <insertable fielduid="Khi5u">false</insertable>
+  <logbooktracking fielduid="Khi5v">false</logbooktracking>
+  <showmnemonic fielduid="Khi5w">false</showmnemonic>
+  <readonly fielduid="Khi5x">false</readonly>
+  <__localeResource__ language="de">
+    <localeresourcel fielduid="Khi5B">Verkaufspreis</localeresourcel>
+    <localeresourced fielduid="Khi5C">Verkaufspreis</localeresourced>
+  </__localeResource__>
+  <__localeResource__ language="en">
+    <localeresourcel fielduid="Khi5B">Verkaufspreis</localeresourcel>
+    <localeresourced fielduid="Khi5C">Verkaufspreis</localeresourced>
+  </__localeResource__>
+</eo>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<!DOCTYPE layoutml SYSTEM "http://www.novabit.de/technologies/layoutml/layoutml.dtd">
+<layoutml>
+<layout>
+  <initial-focus-component name="uid{Khi5.4SYbnQPpRMSreQ2yH5bF}" />
+  <panel visible="yes" opaque="yes">
+    <tablelayout columns="-1.0" rows="-1.0" />
+    <panel>
+      <tablelayout-constraints col1="0" col2="0" row1="0" row2="0" hAlign="2" vAlign="2" />
+      <tablelayout columns="12.0|126.0|252.0|252.0|677.0|70.0" rows="12.0|22.0|22.0|22.0|22.0|22.0|22.0|22.0|22.0|22.0|268.0|5.0" />
+      <collectable-component insertable="yes" enabled="yes" name="uid{Khi5.4SYbnQPpRMSreQ2yH5bF}" opaque="yes" visible="yes" notcloneable="no" fill-control-horizontally="yes" multieditable="yes" controltype="textfield" show-only="label">
+        <tablelayout-constraints col1="1" col2="1" row1="2" row2="2" hAlign="2" vAlign="2" />
+        <minimum-size height="22" width="15" />
+        <preferred-size height="22" width="50" />
+      </collectable-component>
+      <collectable-component insertable="yes" enabled="yes" name="uid{Khi5.4SYbnQPpRMSreQ2yH5bF}" opaque="yes" visible="yes" notcloneable="no" columns="30" fill-control-horizontally="yes" multieditable="yes" controltype="textfield" show-only="control">
+        <tablelayout-constraints col1="2" col2="3" row1="2" row2="2" hAlign="2" vAlign="0" />
+        <minimum-size height="22" width="35" />
+        <preferred-size height="22" width="70" />
+      </collectable-component>
+      <collectable-component insertable="yes" enabled="yes" name="uid{Khi5.cOC5EPb9Ek3vQvV7BIUp}" opaque="yes" visible="yes" notcloneable="no" fill-control-horizontally="yes" multieditable="yes" controltype="textfield" show-only="label">
+        <tablelayout-constraints col1="1" col2="1" row1="3" row2="3" hAlign="2" vAlign="2" />
+        <minimum-size height="22" width="15" />
+        <preferred-size height="22" width="50" />
+      </collectable-component>
+      <collectable-component multiselect="no" insertable="no" enabled="yes" name="uid{Khi5.cOC5EPb9Ek3vQvV7BIUp}" opaque="yes" visible="yes" notcloneable="no" fill-control-horizontally="yes" multieditable="yes" controltype="combobox" show-only="control">
+        <tablelayout-constraints col1="2" col2="2" row1="3" row2="3" hAlign="2" vAlign="2" />
+        <strict-size height="20" width="70" />
+      </collectable-component>
+      <collectable-component insertable="yes" enabled="yes" name="uid{Khi5.eTgDwrAtycqSlinPWBV7}" opaque="yes" visible="yes" notcloneable="no" fill-control-horizontally="yes" multieditable="yes" controltype="textfield" show-only="label">
+        <tablelayout-constraints col1="1" col2="1" row1="4" row2="4" hAlign="2" vAlign="2" />
+        <minimum-size height="22" width="15" />
+        <preferred-size height="22" width="50" />
+      </collectable-component>
+      <collectable-component multiselect="no" insertable="no" enabled="yes" name="uid{Khi5.eTgDwrAtycqSlinPWBV7}" opaque="yes" visible="yes" notcloneable="no" fill-control-horizontally="yes" multieditable="yes" controltype="combobox" show-only="control">
+        <tablelayout-constraints col1="2" col2="2" row1="4" row2="4" hAlign="2" vAlign="2" />
+        <strict-size height="20" width="70" />
+      </collectable-component>
+      <collectable-component insertable="yes" enabled="yes" name="uid{Khi5.4fTvqhh9zW7ERT4L0aEu}" opaque="yes" visible="yes" notcloneable="no" fill-control-horizontally="yes" multieditable="yes" controltype="textfield" show-only="label">
+        <tablelayout-constraints col1="1" col2="1" row1="6" row2="6" hAlign="2" vAlign="2" />
+        <minimum-size height="22" width="15" />
+        <preferred-size height="22" width="50" />
+      </collectable-component>
+      <collectable-component insertable="yes" enabled="yes" name="uid{Khi5.4fTvqhh9zW7ERT4L0aEu}" opaque="yes" visible="yes" notcloneable="no" columns="30" fill-control-horizontally="yes" multieditable="yes" controltype="textfield" show-only="control">
+        <tablelayout-constraints col1="2" col2="3" row1="6" row2="6" hAlign="2" vAlign="0" />
+        <minimum-size height="22" width="35" />
+        <preferred-size height="22" width="70" />
+      </collectable-component>
+      <collectable-component insertable="yes" enabled="yes" name="uid{Khi5.KTi7t6AosHzhPYtvCmfi}" opaque="yes" visible="yes" notcloneable="no" fill-control-horizontally="yes" multieditable="yes" controltype="textfield" show-only="label">
+        <tablelayout-constraints col1="1" col2="1" row1="7" row2="7" hAlign="2" vAlign="2" />
+        <minimum-size height="22" width="15" />
+        <preferred-size height="22" width="50" />
+      </collectable-component>
+      <collectable-component insertable="yes" enabled="yes" name="uid{Khi5.KTi7t6AosHzhPYtvCmfi}" opaque="yes" visible="yes" notcloneable="no" columns="30" fill-control-horizontally="yes" multieditable="yes" controltype="textfield" show-only="control">
+        <tablelayout-constraints col1="2" col2="3" row1="7" row2="7" hAlign="2" vAlign="0" />
+        <minimum-size height="22" width="35" />
+        <preferred-size height="22" width="70" />
+      </collectable-component>
+      <collectable-component insertable="yes" enabled="yes" name="uid{Khi5.e0FBoI42ydIGtUbGuzaz10}" opaque="yes" visible="yes" notcloneable="no" fill-control-horizontally="yes" multieditable="yes" controltype="textfield" show-only="label">
+        <tablelayout-constraints col1="1" col2="1" row1="1" row2="1" hAlign="2" vAlign="1" />
+        <minimum-size height="22" width="15" />
+        <preferred-size height="22" width="50" />
+        <valuelist-provider name="process" type="named" value="process"/>
+      </collectable-component>
+      <collectable-component multiselect="no" insertable="no" enabled="yes" name="uid{Khi5.e0FBoI42ydIGtUbGuzaz10}" opaque="yes" visible="yes" notcloneable="no" fill-control-horizontally="yes" multieditable="yes" controltype="combobox" show-only="control">
+        <tablelayout-constraints col1="2" col2="2" row1="1" row2="1" hAlign="2" vAlign="1" />
+        <strict-size height="20" width="70" />
+        <valuelist-provider name="process" type="named" value="process"/>
+      </collectable-component>
+      <collectable-component insertable="yes" enabled="yes" name="uid{Khi5.bsweYRysB6oygpNVctYz}" opaque="yes" visible="yes" notcloneable="no" fill-control-horizontally="yes" multieditable="yes" controltype="textfield" show-only="label">
+        <tablelayout-constraints col1="1" col2="1" row1="5" row2="5" hAlign="2" vAlign="1" />
+        <minimum-size height="22" width="15" />
+        <preferred-size height="22" width="50" />
+      </collectable-component>
+      <collectable-component multiselect="no" insertable="yes" enabled="yes" name="uid{Khi5.bsweYRysB6oygpNVctYz}" opaque="yes" visible="yes" notcloneable="no" fill-control-horizontally="yes" lovbtn="yes" dropdownbtn="no" multieditable="yes" controltype="listofvalues" show-only="control">
+        <tablelayout-constraints col1="2" col2="2" row1="5" row2="5" hAlign="2" vAlign="1" />
+        <minimum-size height="22" width="35" />
+        <preferred-size height="22" width="70" />
+      </collectable-component>
+      <tabbedpane  name="Tabbedpane_1">
+        <tablelayout-constraints col1="1" col2="3" row1="10" row2="10" hAlign="2" vAlign="2" />
+        <clear-border />
+        <minimum-size height="40" width="180" />
+        <preferred-size height="100" width="300" />
+        <panel visible="yes" opaque="yes">
+        <tabbedpane-constraints title="St&#x00fc;ckliste" enabled="yes" internalname="St&#x00fc;ckliste" />
+          <tablelayout columns="-1.0" rows="-1.0" />
+          <panel>
+            <tablelayout-constraints col1="0" col2="0" row1="0" row2="0" hAlign="2" vAlign="2" />
+            <tablelayout columns="0.0|-1.0" rows="0.0|-1.0" />
+            <subform name="SubForm_1" entity="uid{5E8q.LAOm0AZg1Z2z52mDwd1A}" foreignkeyfield-to-parent="uid{Khi5.bLHp4tu484FNP0qTBVQ7}" toolbarorientation="vertical" enabled="yes" notcloneable="no" multieditable="yes" autonumbersorting="yes" dynamic-cell-heights-default="no" ignore-sub-layout="no" >
+              <tablelayout-constraints col1="1" col2="1" row1="1" row2="1" hAlign="2" vAlign="2" />
+              <minimum-size height="40" width="180" />
+              <preferred-size height="100" width="300" />
+            </subform>
+          </panel>
+        </panel>
+        <panel visible="yes" opaque="yes">
+        <tabbedpane-constraints title="Reiter_2" enabled="yes" internalname="Reiter_2" />
+          <tablelayout columns="-1.0" rows="-1.0" />
+          <panel>
+            <tablelayout-constraints col1="0" col2="0" row1="0" row2="0" hAlign="2" vAlign="2" />
+            <tablelayout columns="12.0|-1.0" rows="12.0|-1.0" />
+          </panel>
+        </panel>
+      </tabbedpane>
+    </panel>
+  </panel>
+</layout>
+</layoutml>
